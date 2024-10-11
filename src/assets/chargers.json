@@ -1,0 +1,39 @@
+{
+    "chargers": [
+      {
+        "name": "Expressway Charging - Mariam Enterprise",
+        "id": "a001",
+        "address": "Connaught Place, Delhi",
+        "distance": "2102",
+        "distance_metrics": "metres",
+        "latitude": "22.4532122",
+        "longitude": "77.4545322",
+        "connector_types": ["lvl1dc-2", "lvl2dc-1", "normalac-1"]
+      },
+      {
+        "name": "City Center Charger - Green Tech",
+        "id": "a002",
+        "address": "City Center Mall, Noida",
+        "latitude": "28.5355",
+        "longitude": "77.3910",
+        "connector_types": ["lvl1dc-3", "lvl2dc-2", "normalac-2"]
+      },
+      {
+        "name": "Hospet Center Charger - Hpt Tech",
+        "id": "a002",
+        "address": "JP Nagar, Hospet",
+        "latitude": "15.27339",
+        "longitude": "76.39293",
+        "connector_types": ["lvl1dc-3", "lvl2dc-2", "normalac-2"]
+      },
+      {
+        "name": "Hospet APMC Charger - Hpt Tech",
+        "id": "a002",
+        "address": "K B N VEGETABLES Hospet APMC, Hospet",
+        "latitude": "15.2611",
+        "longitude": "76.3780",
+        "connector_types": ["lvl1dc-3", "lvl2dc-2", "normalac-2"]
+      }
+    ]
+  }
+  
